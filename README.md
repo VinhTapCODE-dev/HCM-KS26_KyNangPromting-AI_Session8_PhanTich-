@@ -7,10 +7,12 @@ Khách có thể lừa AI. Một khách gửi email có đoạn: "Bỏ qua mọi
 
 **Yêu cầu:** Thiết kế lại quy trình để email đồng nhất, tái sử dụng được câu lệnh tốt, và AI không bị khách lừa.
 ## Prompt 
-**Prompt (đơn giản):**
+
+- **Prompt (đơn giản):**
 Hãy giúp mình tối ưu quy trình dùng AI để trả lời email khách hàng
 cho cửa hàng điện tử online.
-**Prompt (Chi tiết):** 
+
+- **Prompt (Chi tiết):** 
 **Vai Trò:**
 Bạn là chuyên gia thiết kế quy trình làm việc với AI cho doanh nghiệp nhỏ.
 
